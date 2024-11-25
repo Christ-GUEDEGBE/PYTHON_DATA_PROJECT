@@ -172,8 +172,20 @@ Throughout this project, I deepened my understanding of the data analyst job mar
 - Strategic Skill Analysis: The project emphasized the importance of aligning one's skills with market demand. Understanding the relationship between skill demand, salary, and job availability allows for more strategic career planning in the tech industry.
 
 # CHALLENGES I FACED 
-This project was not without its challenges, but it provided good learning opportunities:
+This project was not without its challenges, but each obstacle provided valuable learning opportunities and helped strengthen my skills.
 
-- Data Inconsistencies: Handling missing or inconsistent data entries requires careful consideration and thorough data-cleaning techniques to ensure the integrity of the analysis.
-- Complex Data Visualization: Designing effective visual representations of complex datasets was challenging but critical for conveying insights clearly and compellingly.
-- Balancing Breadth and Depth: Deciding how deeply to dive into each analysis while maintaining a broad overview of the data landscape required constant balancing to ensure comprehensive coverage without getting lost in details.
+- Environment Management:
+
+Setting up and managing Python environments using tools like Conda or virtual environments was initially confusing, especially when dealing with dependencies and package compatibility.
+- Understanding Logic from the Course:
+
+Some of the logic and methodologies used by Luke Barousse in his course were challenging to grasp initially. Breaking down his approach and adapting it to my understanding took time and effort.
+- Data Inconsistencies:
+
+Handling missing or inconsistent data entries required implementing careful data-cleaning techniques to ensure the integrity of the analysis.
+- Complex Data Visualization:
+
+Designing effective and clear visualizations for complex datasets was particularly challenging. Choosing the right chart types and making them both informative and aesthetically pleasing required iterative adjustments.
+- Balancing Breadth and Depth:
+
+Deciding how much detail to go into for each aspect of the analysis while maintaining an overall comprehensive view was a delicate balancing act.
