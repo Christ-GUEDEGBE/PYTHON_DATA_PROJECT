@@ -57,6 +57,7 @@ View my notebook with detailed steps here:
 
 ### Results 
 ![Visualisation of top 3 skills for Data Jobs](./Project/images/skill_demand.png)
+*Horizontal Bar plot to show the most in demand skills for the 3 top data jobs*
 
 ### Insights
 • Different top skills are prioritized across data roles:
@@ -126,7 +127,7 @@ Next, I narrowed my analysis and focused only on data analyst roles. I looked at
 
 ### Results
 ![Visualisation of the top skills based on count and the top skills based on salary, both by salaries](./Project/images/highest_paid_and_most_demanded_skills_on_salary.png)
-* Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the US.*
+*Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the US.*
 
 ### Insights
 
