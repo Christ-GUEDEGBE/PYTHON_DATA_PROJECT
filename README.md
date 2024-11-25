@@ -52,10 +52,11 @@ df['job_skills'] = df['job_skills'].apply(lambda skills : ast.literal_eval(skill
 To find the most demanded skills for the top 3 most popular data roles. I filtered out those positions by which ones were the most popular, and got the top 5 skills for these top 3 roles. This query highlights the most popular job titles and their top skills, showing which skills I should pay attention to depending on the role I'm targeting.
 
 View my notebook with detailed steps here: 
-[2_skills_demand.ipynb](Project\2_skills_demand.ipynb)
+[2_skills_demand.ipynb](./Project/2_skills_demand.ipynb)
+
 
 ### Results 
-![Visualisation of top 3 skills for Data Jobs](Project\images\skill_demand.png)
+![Visualisation of top 3 skills for Data Jobs](./Project/images/skill_demand.png)
 
 ### Insights
 • Different top skills are prioritized across data roles:
@@ -83,10 +84,10 @@ View my notebook with detailed steps here:
 To find how skills are trending in 2023 for Data Analysts, I filtered data analyst positions and grouped the skills by the month of the job postings. This got me the top 5 skills of data analysts by month, showing how popular skills were throughout 2023.
 
 View my notebook with detailed steps here: 
-[3_skills_trend.ipynb](Project\3_skills_trend.ipynb)
+[3_skills_trend.ipynb](./Project/3_skills_trend.ipynb)
 
 ### Results
-![Visualisation of the skills distribution for Data Analysts in US over a year](Project\images\skills_trend_for_data_analysts.png)
+![Visualisation of the skills distribution for Data Analysts in US over a year](./Project/images/skills_trend_for_data_analysts.png)
 *Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.*
 
 ### Insights
@@ -104,11 +105,11 @@ Here are the key insights from the visualization:
 Our code allows us to create a horizontal boxplot showing the salary distribution for the top 6 most common data-related jobs, sorted by median salary in descending order, with salary labels displayed in $K format.
 
 View my notebook with detailed steps here: 
-[4_salary_analysis.ipynb.ipynb](Project\4_salary_analysis.ipynb)
+[4_salary_analysis.ipynb](./Project/4_salary_analysis.ipynb)
 
 
 ### Visualise data 
-![Visualisation of the distribution of salaries for the top 6 jobs](Project\images\salary_distribution_top6_jobs.png)
+![Visualisation of the distribution of salaries for the top 6 jobs](./Project/images/salary_distribution_top6_jobs.png)
 *Box plot visualizing the salary distributions for the top 6 data job titles.*
 
 ### Insights
@@ -124,7 +125,7 @@ Here are the 3 key insights from this visualization:
 Next, I narrowed my analysis and focused only on data analyst roles. I looked at the highest-paid skills and the most in-demand skills. I used two bar charts to showcase these.
 
 ### Results
-![Visualisation of the top skills based on count and the top skills based on salary, both by salaries](Project\images\highest_paid_and_most_demanded_skills_on_salary.png)
+![Visualisation of the top skills based on count and the top skills based on salary, both by salaries](./Project/images/highest_paid_and_most_demanded_skills_on_salary.png)
 * Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the US.*
 
 ### Insights
@@ -146,10 +147,9 @@ Next, I narrowed my analysis and focused only on data analyst roles. I looked at
 To identify the most optimal skills to learn ( the ones that are the highest paid and highest in demand) I calculated the percent of skill demand and the median salary of these skills. To easily identify which are the most optimal skills to learn.
 
 View my notebook with detailed steps here: 
-[5_optimal_skills.ipynb](Project\images\most_optimal_skills_for_data_analysts_in_the_US.png.ipynb)
-
+[5_optimal_skills.ipynb](./Project/5_optimal_skills.ipynb)
 ### Results
-![Most optimal skills based on frequency and salary]()
+![Most optimal skills based on frequency and salary](./Project/images/most_optimal_skills_for_data_analysts_in_the_US.png)
 *A scatter plot visualising the most optimal skills (high paying and high demand) for data analysts in the US.*
 - Programming skills lead in salary, while databases dominate in demand:
 
