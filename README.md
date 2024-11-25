@@ -132,7 +132,7 @@ Next, I narrowed my analysis and focused only on data analyst roles. I looked at
 
 • Top-paying skills (dplyr, bitbucket, gitlab) are specialized technical tools, with salaries around $180-200K/year
 
-• There's a significant salary gap between the highest-paid skills (~$180-200K) and the most in-demand skills (~$80K)
+• There's a significant salary gap between the highest-paid skills (about $180-200K) and the most in-demand skills (about $80K)
 
 • Office tools (Excel, Word, PowerPoint) are among the most in-demand skills but are the lowest paid
 
@@ -153,16 +153,16 @@ View my notebook with detailed steps here:
 *A scatter plot visualising the most optimal skills (high paying and high demand) for data analysts in the US.*
 - Programming skills lead in salary, while databases dominate in demand:
 
-  Python (programming) offers the highest median salary (~$98,000), making it the most financially rewarding skill in this dataset.
-  SQL (databases) has unparalleled demand, appearing in nearly 60% of job postings, while still maintaining a high median salary (~$94,000). This highlights the dual importance of database management and programming skills in the job market.
+  Python (programming) offers the highest median salary (about $98,000), making it the most financially rewarding skill in this dataset.
+  SQL (databases) has unparalleled demand, appearing in nearly 60% of job postings, while still maintaining a high median salary (about $94,000). This highlights the dual importance of database management and programming skills in the job market.
 - Analyst tools vary in demand and salary impact:
 
   Excel, categorized as an analyst tool, is required in 40% of job postings, making it the most sought-after among its group. However, its median salary ($88,000) is moderate.
-  Conversely, Power BI and Tableau, also analyst tools, show significantly less demand but have slightly higher salaries (~$90,000–$92,000), indicating that these specialized tools are valued in more niche roles.
+  Conversely, Power BI and Tableau, also analyst tools, show significantly less demand but have slightly higher salaries (about $90,000–$92,000), indicating that these specialized tools are valued in more niche roles.
 - Cloud and Office skills have a smaller but notable role:
 
-  Oracle (cloud) commands a relatively high salary (~$96,000), but its demand is limited.
-  Meanwhile, common office tools like Word and PowerPoint, despite being widely required, are linked with lower median salaries (~$82,000–$84,000), underlining the limited career leverage of these basic skills.
+  Oracle (cloud) commands a relatively high salary (about $96,000), but its demand is limited.
+  Meanwhile, common office tools like Word and PowerPoint, despite being widely required, are linked with lower median salaries (about $82,000–$84,000), underlining the limited career leverage of these basic skills.
 
 # WHAT I LEARNED 
 Throughout this project, I deepened my understanding of the data analyst job market and enhanced my technical skills in Python, especially in data manipulation and visualization. Here are a few specific things I learned:
